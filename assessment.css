@@ -1,0 +1,24 @@
+.nav-container{
+    margin: 60px 50px;
+}
+
+.navbar-color{
+    background-color: #374852;
+    margin-bottom: px;
+}
+.navbar-brand{
+    color: aliceblue;
+}
+@media (max-width:500px ){
+    .navbar-color {
+        align-content: ;background-color: #4c5fa3;
+    }
+}
+.btn-outline-success{
+    background-color: #F37C7C;
+    margin-right: 21px
+        
+}
+.containerpart-2{
+    background-color: #F6F5F3
+}	
